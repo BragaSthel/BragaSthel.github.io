@@ -1,0 +1,105 @@
+/* CSS PAGINA */
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: rgb(29, 29, 29);
+
+}
+
+
+header {
+  background-color: #000000;
+  color: #570013;
+  padding: 20px;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 100px;
+}
+
+h2 {
+  text-align: center;
+  padding: 35px;
+  background-color: #000000;
+  color: #00ff88;
+
+}
+
+h3 {
+  color: #00ff88;
+}
+
+p {
+  color: rgba(252, 252, 252, 0.555);
+}
+
+
+nav ul {
+  list-style-type: none;
+  padding: 10px;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 10px;
+}
+
+nav ul li a {
+  color: #00ff88;
+  text-decoration: none;
+}
+
+#banner {
+  background-image: url('banner.jpg');
+  background-size: cover;
+  color: #00ff88;
+  text-align: center;
+  padding: 20px;
+}
+
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #000000;
+  color: #00ff88;
+  text-decoration: none;
+  margin-top: 20px;
+}
+
+
+
+#plataforma {
+  padding: 100px;
+}
+
+#golden {
+  padding: 100px;
+  text-align: center;
+}
+
+#jogos {
+  padding: 20px;
+}
+
+
+.jogos {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+
+.jogos img {
+  width: 200px;
+  height: 200px;
+}
+
+
+footer {
+  background-color: #000000;
+  color: #00ff88;
+  text-align: center;
+  padding: 10px;
+}
